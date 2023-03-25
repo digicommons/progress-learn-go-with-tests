@@ -1,0 +1,1 @@
+Currently I'm learning Go. In this repo I'm documenting my progress on [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
